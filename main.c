@@ -1,6 +1,6 @@
-#include <studio.h>
+#include<studio.h>
 int main(){
-    printf("Bienvenue");
+    printf("Bienvenue messi");
 
     int a,b,s;
     printf("enter 2 nombres");
